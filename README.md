@@ -44,11 +44,11 @@ Sécuriser la route avec vérification du JWT. Pour ajouter un contact à un uti
 N'importe quel utilisateur connecté pouvait manipuler l'envoi de emails, la solution était de vérifier que le JWT appartient à un administrateur
 
 ## Résultats des tests
-| ![image](![upload_1696b11d17c98ad695d1a29a17e98342](https://github.com/user-attachments/assets/031bb4c0-9adc-4d26-a735-52087693ea24)) |
+| ![image](https://github.com/user-attachments/assets/031bb4c0-9adc-4d26-a735-52087693ea24) |
 |:--:| 
 | *frontend* |
 
-| ![image](![upload_bfe6f6bf4ff4a5caf469320008047f98](https://github.com/user-attachments/assets/1f43c2c4-9176-4687-ad48-306066a67dc2)) |
+| ![image](https://github.com/user-attachments/assets/1f43c2c4-9176-4687-ad48-306066a67dc2) |
 |:--:| 
 | *backend* | 
 
